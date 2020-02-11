@@ -14,10 +14,10 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Coming soon</h1>
+      <h1> 😎 Coming soon 🧑🏻‍💻 </h1>
       
  
-      <p>{date ? date : 'Loading date...'}</p>
+      <p> 🤙 {date ? date : 'Loading date...'}</p>
     </main>
   );
 }

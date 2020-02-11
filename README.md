@@ -1,4 +1,4 @@
-![React Logo](https://cdn.worldvectorlogo.com/logos/react.svg)
+![React Logo](https://rawgit.com/gorangajic/react-icons/master/react-icons.svg)
 
 # React Example
 

@@ -10,7 +10,7 @@ function App() {
       
     <p> 📱 +918340662031 / <b>roshankrsoni1@gmail.com </b></p> 
  
-      <h1> 🤙  </h1>
+
     </main>
   );
 }

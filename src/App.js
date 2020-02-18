@@ -6,7 +6,11 @@ function App() {
  
   return (
     <main>
-      <h1> 😎 Coming soon </h1>
+      <h1> 😎 Roshan Kr Soni </h1>
+   <p> I am a full-stack web developer working on Node.js. Having a great passion in both back-end and front-end development, <br />
+   I can create API's and decent UI's. I have worked on real life projects and find myself capable enough to handle pressure 
+   well. <br /> Team work and quick learner describes me really well. Apart from all this I love gaming, watching anime, sports,etc. <br /> 
+   I am a music lover ♫. </p>
       
     <p> 📱 +918340662031 / <b>roshankrsoni1@gmail.com </b></p> 
  

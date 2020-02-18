@@ -44,6 +44,19 @@ code:after {
 }
 
 .desc{
-    text-align: justify;
-    font-size: 25px;
-    color: hsl(231, 4%, 48%);}
+  text-align: justify;
+    font-size: 1.5rem;
+    color: #76777f;}
+
+
+   
+   @media only screen and (max-width: 600px){
+      main{
+        width: 80%;
+        backgound:red;
+      }
+h1{
+font-size: 27px;
+    margin-bottom: 0;
+}
+    }

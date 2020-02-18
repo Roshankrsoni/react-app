@@ -55,8 +55,11 @@ code:after {
         width: 80%;
         backgound:red;
       }
-h1{
-font-size: 27px;
-    margin-bottom: 0;
-}
+        h1{
+        font-size: 27px;
+            margin-bottom: 0;
+        }
+     .desc{
+         font-size: 1rem;
+     }
     }

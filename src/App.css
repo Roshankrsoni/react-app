@@ -7,9 +7,9 @@ main {
   hyphens: auto;
   line-height: 1.65;
   margin: 0 auto;
-  max-width: 680px;
-  min-height: 100vh;
-  padding: 62px 0;
+    max-width: 53rem;
+    min-height: 100vh;
+    padding: 62px 27px;
   text-align: center;
 }
 h1 {
@@ -52,7 +52,7 @@ code:after {
    
    @media only screen and (max-width: 600px){
       main{
-        width: 80%;
+        width: 92%;
         backgound:red;
       }
         h1{
